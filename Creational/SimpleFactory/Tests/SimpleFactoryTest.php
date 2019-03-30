@@ -4,8 +4,8 @@ use DesignPatterns\Creational\SimpleFactory\Bicycle;
 use DesignPatterns\Creational\SimpleFactory\SimpleFactory;
 use PHPUnit\Framework\TestCase;
 
-require_once('../Classes/Bicycle.php');
-require_once('../Classes/SimpleFactory.php');
+require_once('../Bicycle.php');
+require_once('../SimpleFactory.php');
 
 class SimpleFactoryTest extends TestCase
 {
